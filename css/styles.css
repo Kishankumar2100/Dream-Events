@@ -11772,7 +11772,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   background-color: #1a252f;
 }
 .page-section {
-  padding: 8rem 0;
+  padding: 4rem 0;
 }
 .text-muted mb-0 li{
   text-align: center;
@@ -11808,23 +11808,3 @@ body {
   box-shadow: 13px 12px 5px -10px rgba(196,194,196,0.72);
 }
 
-
-/* .col-md-3 {
-  margin-top: 10px;
-} */
-
-/* .row{
-  justify-content: center;
-} */
-
-/* .container mt-3{
-  margin: 10px auto;
-}
-
-.bg-black p-3 text-center rounded box{
-  margin: 100px auto;
-} */
-/* 
-.row{
-  margin: 0px 300px;
-} */
